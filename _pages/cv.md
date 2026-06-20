@@ -11,54 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in General Science, Fordham University, (Expected 2027)
 
-Work experience
+Relevant Coursework
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Organic Chemistry I & II
+* Genetics
+* Discrete Structures
+* Biochemistry (planned)
+* Cell Biology (planned)
+* Statistics (planned)
+* Computer Science I (planned)
   
+Research Experience
+======
+Undergraduate Researcher Assistant
+Fordham University, Summer 2026
+* Literature review and analysis in chemistry and separation science
+* Development of scientific computing and data analysis skills
+* Research involving spectroscopy, instrumentation, and computational methods
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * SQL
+  * Git/GitHub
+  * Linux/Unix Shell
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Scientific Software
+  * Jupyter Notebook
+  * VS Code
+  * Arduino IDE
+  * Thonny
+  * Fusion 360
+
+
+Professional Experience
+* Educator, Lululemon Athletic Co. 
+* 
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Disaster Action Team Specialist, American Red Cross, June 2025 - Current
+* Orientation Leader, Summer 2024
+* 
