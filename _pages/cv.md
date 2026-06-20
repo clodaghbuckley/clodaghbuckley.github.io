@@ -11,52 +11,37 @@ redirect_from:
 
 ---
 
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
---------------------
-
 # Clodagh Buckley
 
 **Undergraduate General Science Student**
+
 GitHub: https://github.com/clodaghbuckley
 
 ## Education
 
-### [Fordham University]
+### Fordham University
 
 **B.S. in General Science**
-Expected Graduation: Spring 2027
+Expected Graduation: May 2027
 
-**Relevant Coursework**
+Relevant Coursework:
 
 * Genetics
 * Organic Chemistry I & II
-* Cell Biology
 * Biochemistry
+* Cell Biology
 * Applied Statistics
 * Computer Science I
 
 ## Research Experience
 
-### Undergraduate Researcher
+### Undergraduate Research Assistant
 
-**Fordham Univeristy**
-June 2026 – Present
+2026–Present
 
-* Participated in undergraduate research projects.
-* Assisted with data collection and analysis.
-* Maintained research records and documentation.
-* Learned laboratory and computational research methods.
-
-## Projects
-
-### Software Carpentry Training
-
-* Learned Unix shell commands, Git, GitHub, Python, and SQL.
-* Completed exercises in scientific computing and data analysis.
-* Practiced version control and reproducible research workflows.
+* Participating in laboratory research and data analysis
+* Learning experimental design and scientific communication
+* Developing computational and quantitative skills applicable to biological research
 
 ## Technical Skills
 
@@ -64,22 +49,26 @@ June 2026 – Present
 
 * Python
 * SQL
-* Git
+* Git/GitHub
+* Unix Shell
 
-### Software & Tools
+### Scientific Software
 
-* GitHub
 * Jupyter Notebook
 * VS Code
-* Arduino IDE
 * Fusion 360
 
-## Activities
+### Laboratory Skills
 
-* Undergraduate Research
-* STEM Student Organizations
-* Volunteer Activities
+* Molecular biology techniques
+* Data collection and analysis
+* Scientific literature review
 
-## Interests
+## Research Interests
 
-Biochemistry, Scientific Computing, Data Analysis
+* Biochemistry
+* Molecular Biology
+* Computational Biology
+* Human Health
+* Data Science Applications in Biology
+
