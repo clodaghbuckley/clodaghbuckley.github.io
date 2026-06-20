@@ -49,10 +49,8 @@ Skills
 
 Professional Experience
 * Educator, Lululemon Athletic Co. 
-* 
 
 Service and leadership
 ======
 * Disaster Action Team Specialist, American Red Cross, June 2025 - Current
 * Orientation Leader, Summer 2024
-* 
