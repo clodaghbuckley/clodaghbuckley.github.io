@@ -9,48 +9,77 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in General Science, Fordham University, (Expected 2027)
+---
 
-Relevant Coursework
-======
-* Organic Chemistry I & II
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+--------------------
+
+# Clodagh Buckley
+
+**Undergraduate General Science Student**
+GitHub: https://github.com/clodaghbuckley
+
+## Education
+
+### [Fordham University]
+
+**B.S. in General Science**
+Expected Graduation: Spring 2027
+
+**Relevant Coursework**
+
 * Genetics
-* Discrete Structures
-* Biochemistry (planned)
-* Cell Biology (planned)
-* Statistics (planned)
-* Computer Science I (planned)
-  
-Research Experience
-======
-Undergraduate Researcher Assistant
-Fordham University, Summer 2026
-* Literature review and analysis in chemistry and separation science
-* Development of scientific computing and data analysis skills
-* Research involving spectroscopy, instrumentation, and computational methods
+* Organic Chemistry I & II
+* Cell Biology
+* Biochemistry
+* Applied Statistics
+* Computer Science I
 
-Skills
-======
-* Programming
-  * Python
-  * SQL
-  * Git/GitHub
-  * Linux/Unix Shell
+## Research Experience
 
-* Scientific Software
-  * Jupyter Notebook
-  * VS Code
-  * Arduino IDE
-  * Thonny
-  * Fusion 360
+### Undergraduate Researcher
 
+**Fordham Univeristy**
+June 2026 – Present
 
-Professional Experience
-* Educator, Lululemon Athletic Co. 
+* Participated in undergraduate research projects.
+* Assisted with data collection and analysis.
+* Maintained research records and documentation.
+* Learned laboratory and computational research methods.
 
-Service and leadership
-======
-* Disaster Action Team Specialist, American Red Cross, June 2025 - Current
-* Orientation Leader, Summer 2024
+## Projects
+
+### Software Carpentry Training
+
+* Learned Unix shell commands, Git, GitHub, Python, and SQL.
+* Completed exercises in scientific computing and data analysis.
+* Practiced version control and reproducible research workflows.
+
+## Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* Git
+
+### Software & Tools
+
+* GitHub
+* Jupyter Notebook
+* VS Code
+* Arduino IDE
+* Fusion 360
+
+## Activities
+
+* Undergraduate Research
+* STEM Student Organizations
+* Volunteer Activities
+
+## Interests
+
+Biochemistry, Scientific Computing, Data Analysis
