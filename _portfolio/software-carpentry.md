@@ -2,7 +2,7 @@
 title: "Software Carpentry Training"
 collection: portfolio
 permalink: /portfolio/software-carpentry/
------------------------------------------
+---
 
 ## Overview
 
