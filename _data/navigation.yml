@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /portfolio/
 
+  - title: "Notes"
+    url: /year-archive/
+
   - title: "CV"
     url: /cv/
-
-  - title: "Blog"
-    url: /year-archive/
