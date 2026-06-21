@@ -4,9 +4,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
---------------------
-
-# Research
+---
 
 My research interests lie at the intersection of biology, chemistry, computation, and human health. I am particularly interested in how computational approaches can be used to better understand biological systems and address scientific and medical challenges.
 
