@@ -1,13 +1,9 @@
 ---
-
-permalink: /
+permalink: /about/
 title: "About Me"
 author_profile: true
 redirect_from:
-
-- /about/
-- /about.html
-
+  - /about.html
 ---
 
 I am an undergraduate General Science student at Fordham University with interests in biology, chemistry, computation, and human health.
