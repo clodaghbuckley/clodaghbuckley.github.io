@@ -24,7 +24,7 @@ GitHub: https://github.com/clodaghbuckley
 **B.S. in General Science**
 Expected Graduation: May 2027
 
-Relevant Coursework:
+## Relevant Coursework:
 
 * Genetics
 * Organic Chemistry I & II
@@ -35,13 +35,7 @@ Relevant Coursework:
 
 ## Research Experience
 
-### Undergraduate Research Assistant
-
-2026–Present
-
-* Participating in laboratory research and data analysis
-* Learning experimental design and scientific communication
-* Developing computational and quantitative skills applicable to biological research
+* Undergraduate Research Assistant, Summer 2026
 
 ## Technical Skills
 
@@ -52,23 +46,16 @@ Relevant Coursework:
 * Git/GitHub
 * Unix Shell
 
-### Scientific Software
+### Programming Softwares
 
 * Jupyter Notebook
 * VS Code
 * Fusion 360
 
-### Laboratory Skills
-
-* Molecular biology techniques
-* Data collection and analysis
-* Scientific literature review
-
 ## Research Interests
 
 * Biochemistry
-* Molecular Biology
 * Computational Biology
 * Human Health
-* Data Science Applications in Biology
+* Data Science Applications in Biology any Chemistru
 
