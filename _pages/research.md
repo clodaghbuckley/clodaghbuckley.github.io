@@ -6,25 +6,23 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests lie at the intersection of biology, chemistry, computation, and human health. I am particularly interested in how quantitative and computational approaches can be used to better understand biological systems and address scientific and medical challenges.
+I am exploring research areas related to biology, computation, and human health. I am particularly interested in how data and technology can be used to advance scientific understanding and improve health outcomes.
 
 ## Research Interests
 
 * Biochemistry
-* Materials Science
 * Computational Chemistry
 * Data Science
 * Biological and Biomedical Sciences
 
 ## Current Development
 
-As an undergraduate student, I am currently developing research skills through coursework, scientific programming, literature exploration, and independent learning. My goal is to build a strong foundation in both experimental and computational approaches to scientific research.
+As an undergraduate student at Fordham University, I am currently developing research skills through coursework, scientific programming, research papers, and independent learning. My goal is to build a strong foundation in both experimental and computational approaches to biochemistry research.
 
-Areas of focus include:
+Current areas of learning include:
 * Python programming for scientific applications
 * Data analysis and visualization
 * Scientific computing
-* Research methods and scientific communication
 * Reading and evaluating primary scientific literature
 
 
@@ -44,4 +42,4 @@ Areas of focus include:
 
 ## Future Directions
 
-I hope to pursue advanced study in the biological sciences and contribute to research that combines experimental science, computation, and quantitative analysis to better understand human health and disease.
+I hope to pursue graduate study and a career in biomedical research and medicine, contributing to our understanding of biological systems and human health through approaches that integrate experimental science, computation, and data analysis.

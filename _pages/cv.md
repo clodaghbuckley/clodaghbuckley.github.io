@@ -57,5 +57,5 @@ Expected Graduation: May 2027
 * Biochemistry
 * Computational Biology
 * Human Health
-* Data Science Applications in Biology any Chemistru
+* Data Science Applications in Biology any Chemistry
 
