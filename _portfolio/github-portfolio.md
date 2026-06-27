@@ -1,47 +1,49 @@
 ---
-title: "Software Carpentry Training"
+
+title: "Academic Website"
 collection: portfolio
-permalink: /portfolio/software-carpentry/
----
+permalink: /portfolio/academic-website/
+excerpt: "A personal academic website built with GitHub Pages and Jekyll."
+--------------------------------------------------------------------------
 
 ## Overview
 
-During Summer 2026, I completed Software Carpentry training to develop computational skills commonly used in scientific research.
+This website was developed using GitHub Pages and Jekyll to serve as a central location for my academic work, research interests, projects, and professional development.
 
-The training focused on:
+The site is based on the Academic Pages template and has been customized to reflect my interests and experiences.
 
-* Unix Shell
+## Technologies
+
+* GitHub Pages
+* Jekyll
+* Markdown
+* HTML/CSS
 * Git and GitHub
-* Python
-* Jupyter Notebooks
-* Reproducible research workflows
 
-## Skills Developed
+## Features
 
-### Unix Shell
+* Home, About, and Research pages
+* Portfolio of projects
+* Academic CV
+* Responsive website design
+* Version-controlled content management
 
-* File and directory management
-* Command-line navigation
-* Working with scripts
+## What I Learned
 
-### Git and GitHub
+Through this project, I gained experience with:
 
-* Version control
-* Branching and merging
-* Collaborative workflows
+* Static website development
+* Website customization using Jekyll
+* Markdown-based content creation
+* Git workflows and repository management
+* Deploying websites through GitHub Pages
 
-### Python
+## Future Improvements
 
-* Variables and data types
-* Functions and loops
-* Data analysis
+Planned additions include:
 
-### Jupyter Notebooks
-
-* Interactive computing
-* Data visualization
-* Scientific workflows
-
-## Reflection
-
-Software Carpentry provided a foundation for scientific computing and strengthened my ability to use computational tools in research settings.
+* Research updates
+* Project documentation
+* Technical blog posts
+* Additional portfolio projects
+* Adding publications page

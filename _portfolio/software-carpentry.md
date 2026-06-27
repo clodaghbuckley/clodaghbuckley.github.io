@@ -1,14 +1,16 @@
 ---
+
 title: "Software Carpentry Training"
 collection: portfolio
 permalink: /portfolio/software-carpentry/
----
+excerpt: "Training in Python, Unix Shell, Git, GitHub, and scientific computing workflows."
+-------------------------------------------------------------------------------------------
 
 ## Overview
 
 During Summer 2026, I completed Software Carpentry training to develop computational skills commonly used in scientific research.
 
-The training focused on:
+The training covered:
 
 * Unix Shell
 * Git and GitHub
@@ -34,7 +36,7 @@ The training focused on:
 
 * Variables and data types
 * Functions and loops
-* Data analysis
+* Data analysis and visualization
 
 ### Jupyter Notebooks
 
@@ -44,4 +46,4 @@ The training focused on:
 
 ## Reflection
 
-Software Carpentry provided a foundation for scientific computing and strengthened my ability to use computational tools in research settings.
+Software Carpentry strengthened my foundation in scientific computing and introduced tools that support reproducible and collaborative research. The training improved my confidence in using programming and computational methods to solve scientific problems and analyze data.
