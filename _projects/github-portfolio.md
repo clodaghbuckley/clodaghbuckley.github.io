@@ -1,8 +1,8 @@
 ---
 
 title: "Academic Website"
-collection: portfolio
-permalink: /portfolio/academic-website/
+collection: projects
+permalink: /projects/academic-website/
 
 ---
 

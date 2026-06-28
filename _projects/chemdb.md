@@ -1,8 +1,8 @@
 ---
 
 title: "ChemDB"
-collection: portfolio
-permalink: /portfolio/chemdb/
+collection: projects
+permalink: /projects/chemdb/
 
 ---
 

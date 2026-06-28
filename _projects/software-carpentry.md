@@ -1,8 +1,8 @@
 ---
 
 title: "Software Carpentry Training"
-collection: portfolio
-permalink: /portfolio/software-carpentry/
+collection: projects
+permalink: /projects/software-carpentry/
 ---
 
 ## Resource

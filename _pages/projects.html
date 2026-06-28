@@ -1,0 +1,21 @@
+---
+
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+--------------------
+
+{% include base_path %}
+
+Below are selected projects and technical training experiences that document my development in scientific computing, data management, and research skills.
+
+{% for post in site.portfolio %}
+
+## [{{ post.title }}]({{ post.url }})
+
+{{ post.excerpt }}
+
+[Read more →]({{ post.url }})
+
+{% endfor %}
