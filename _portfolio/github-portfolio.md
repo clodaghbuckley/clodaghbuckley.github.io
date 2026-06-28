@@ -3,8 +3,8 @@
 title: "Academic Website"
 collection: portfolio
 permalink: /portfolio/academic-website/
-excerpt: "A personal academic website built with GitHub Pages and Jekyll."
---------------------------------------------------------------------------
+
+---
 
 ## Overview
 
