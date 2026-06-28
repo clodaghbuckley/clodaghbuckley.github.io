@@ -3,8 +3,7 @@
 title: "ChemDB"
 collection: portfolio
 permalink: /portfolio/chemdb/
-excerpt: "A web application for storing and managing chemical element information using Flask and SQL."
------------------------------------------------------------------------------------------------
+---
 
 ## Overview
 
@@ -38,11 +37,10 @@ Through this project, I gained experience with:
 * Creating HTML templates for displaying data
 * Using Git and GitHub for version control
 
-## Future Improvements
+## Future Ideas
 
 Possible future additions include:
 
 * Search and filtering tools
 * Additional chemical properties
-* User authentication
 * Data visualization features

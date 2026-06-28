@@ -14,5 +14,3 @@ Key concepts:
 - Git branches
 - Merge conflicts
 - GitHub Pages deployment
-
-One challenge I encountered was resolving a merge conflict while updating my website. This experience helped me better understand how Git manages changes across different versions of a project.

@@ -3,8 +3,7 @@
 title: "Software Carpentry Training"
 collection: portfolio
 permalink: /portfolio/software-carpentry/
-excerpt: "Training in Python, Unix Shell, Git, GitHub, and scientific computing workflows."
--------------------------------------------------------------------------------------------
+---
 
 ## Overview
 

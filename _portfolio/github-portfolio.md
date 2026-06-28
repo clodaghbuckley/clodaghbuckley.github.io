@@ -30,9 +30,8 @@ The site is based on the Academic Pages template and has been customized to refl
 
 ## What I Learned
 
-Through this project, I gained experience with:
+In this project, I learned about:
 
-* Static website development
 * Website customization using Jekyll
 * Markdown-based content creation
 * Git workflows and repository management
