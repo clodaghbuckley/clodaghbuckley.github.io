@@ -14,14 +14,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Resume"
+  - title: "CV"
     url: /cv/
 
-  - title: "Blog"
-    url: /year-archive/
+  - title: "Notes"
+    url: /notes/

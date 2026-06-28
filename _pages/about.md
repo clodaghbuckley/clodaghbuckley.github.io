@@ -1,26 +1,35 @@
 ---
+
 permalink: /about/
 title: "About Me"
 author_profile: true
 redirect_from:
-  - /about.html
+
+* /about.html
+
 ---
 
-I am an undergraduate General Science student at Fordham University with interests in biology, chemistry, computation, and human health.
+I am an undergraduate General Science student at Fordham University with interests in chemistry, biology, computation, and human health.
 
-My academic interests focus on understanding biological and chemical systems through quantitative and data-driven approaches. I am particularly interested in how computational methods can be used to support scientific discovery and expand our understanding of health and disease.
+My academic interests lie at the intersection of experimental science and data-driven research. I am particularly interested in how computational methods, machine learning, and scientific databases can be used to accelerate discovery in chemistry and the life sciences.
 
-Through coursework, independent projects, and ongoing learning, I am developing skills in scientific programming, data analysis, and research.
+Currently, I am developing skills in scientific programming, data analysis, databases, and web application development. Through independent projects and coursework, I have been exploring Python, SQL, Flask, Git, Docker, and scientific computing tools.
 
-## Research Interests
+## Current Interests
 
-I am exploring research areas related to biology, computation, and human health. I am particularly interested in how data and technology can be used to advance scientific understanding and improve health outcomes.
+* Computational approaches to chemistry and biology
+* Machine learning for scientific discovery
+* Scientific databases and research software
+* Data analysis and visualization
+* Biomedical and translational research
 
+## Current Projects
 
-## Current Development
+* Building ChemDB, a Flask-based chemical database application
+* Reading and summarizing research papers related to solvent extraction and machine learning in chemistry
+* Developing a public learning portfolio through GitHub Pages
+* Expanding skills in databases, software development, and scientific computing
 
-As an undergraduate student at Fordham University, I am currently developing research skills through coursework, scientific programming, research papers, and independent learning. My goal is to build a strong foundation in both experimental and computational approaches to biochemistry research.
+## Future Goals
 
-## Future Directions
-
-I hope to pursue graduate study and a career in biomedical research and medicine, contributing to our understanding of biological systems and human health through approaches that integrate experimental science, computation, and data analysis.
+I hope to pursue advanced training that combines scientific research and medicine. My long-term interests include contributing to biomedical research through approaches that integrate experimental science, computation, and data analysis.
