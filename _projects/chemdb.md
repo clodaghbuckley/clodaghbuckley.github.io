@@ -3,45 +3,51 @@
 title: "ChemDB"
 collection: projects
 permalink: /projects/chemdb/
+summary: "A Flask web application for storing, viewing, editing, and managing chemical information."
 
 ---
-
 ## Overview
 
-ChemDB is a web application designed to store and manage chemical information through a simple web interface. Users can view, add, edit, and organize records in a database.
+ChemDB is a database-driven web application developed to organize and manage chemical information through an interactive user interface. The project was created as an introduction to full-stack web development, database design, and scientific data management.
 
-The project was developed as an introduction to full-stack web development and database management.
+Users can view chemical records, add new entries, update existing information, and remove records from the database. The application demonstrates the core principles of CRUD (Create, Read, Update, Delete) operations commonly used in database applications.
 
 ## Technologies
 
 * Python
 * Flask
-* MySQL
+* SQLite / MySQL
 * HTML
+* Docker
 * Git and GitHub
 
 ## Features
 
-* Store chemical records in a database
-* View records through a web interface
-* Add new entries
-* Edit existing entries
-* Delete records
+* Display chemical records in a web interface
+* Add new chemical entries
+* Edit existing records
+* Delete records from the database
+* Store data using a relational database
+* Manage application code with Git and GitHub
 
 ## What I Learned
 
 Through this project, I gained experience with:
 
 * Building web applications using Flask
+* Designing and managing relational databases
+* Implementing CRUD functionality
+* Creating HTML templates and web forms
 * Connecting Python applications to databases
-* Designing database tables and queries with MySQL
-* Creating HTML templates for displaying data
-* Using Git and GitHub for version control
+* Using Docker to containerize applications
+* Applying version control with Git and GitHub
 
-## Future Ideas
+## Future Improvements
 
-Possible future additions include:
+Potential future additions include:
 
-* Search and filtering tools
-* Additional chemical properties
-* Data visualization features
+* Search and filtering capabilities
+* Additional chemical properties and metadata
+* Data visualization tools
+* User authentication and permissions
+* Exporting data to CSV or JSON formats

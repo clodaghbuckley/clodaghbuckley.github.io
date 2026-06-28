@@ -4,17 +4,17 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
----
+--------------------
 
 {% include base_path %}
 
-Below are selected projects and technical training experiences that document my development in scientific computing, data management, and research skills.
+This page highlights selected projects and technical training experiences related to scientific computing, software development, and data management.
 
 {% for post in site.projects %}
 
-## [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url }})
 
-{{ post.excerpt }}
+{{ post.summary }}
 
 [Read more →]({{ post.url }})
 

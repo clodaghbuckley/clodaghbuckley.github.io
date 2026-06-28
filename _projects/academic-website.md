@@ -3,6 +3,7 @@
 title: "Academic Website"
 collection: projects
 permalink: /projects/academic-website/
+summary: "A personal academic website built with GitHub Pages and Jekyll to document projects and learning."
 
 ---
 

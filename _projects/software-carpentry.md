@@ -3,6 +3,8 @@
 title: "Software Carpentry Training"
 collection: projects
 permalink: /projects/software-carpentry/
+summary: "Training in Unix, Git, GitHub, Python, and reproducible research workflows."
+
 ---
 
 ## Resource
